@@ -1,6 +1,8 @@
 # 🧙‍♂️ Ruby Spell Scraper  
 
-**Ruby Spell Scraper** es una aplicación de terminal en Ruby que obtiene información de hechizos de *Dungeons & Dragons* utilizando la API de Open5e. Permite visualizar, guardar y gestionar datos de hechizos directamente desde la línea de comandos.  
+**Ruby Spell Scraper** es una aplicación de terminal en Ruby que obtiene información de hechizos de *Dungeons & Dragons* utilizando la API de Open5e. Permite visualizar, guardar y gestionar datos de hechizos directamente desde la línea de comandos.
+
+**Esta versión tiene en cuenta que los datos solo se guardan en el archivo CSV y la base de datos SQLite.**
 
 ## 🚀 Características  
 - ✅ Obtiene hechizos de *Dungeons & Dragons* mediante la API de Open5e.  
