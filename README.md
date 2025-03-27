@@ -19,13 +19,16 @@
    ```sh
    git clone https://github.com/tu-usuario/ruby-spell-scraper.git
    cd ruby-spell-scraper
-   
+   ```
+
 2. Instala las dependencias:
 ```sh
    bundle install
-
+```
 
 3. Ejecuta la aplicación desde la terminal:
 ```sh
    ruby scraper.rb
+```
 
+**Esta versión tiene en cuenta que los datos solo se guardan en el archivo CSV y la base de datos SQLite.**
