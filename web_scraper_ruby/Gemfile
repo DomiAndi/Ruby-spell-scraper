@@ -1,0 +1,10 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# gem "rails"
+
+gem "nokogiri" # Para parsear HTML/XML
+gem "open-uri" # Para hacer solicitudes HTTP
+gem "csv"      # Para exportar datos a CSV
+gem "sqlite3"  # Para usar SQLite como base de datos (opcional)
