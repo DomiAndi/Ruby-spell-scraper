@@ -23,4 +23,9 @@
 2. Instala las dependencias:
 ```sh
    bundle install
-   ```
+```
+
+3. Ejecuta la aplicación desde la terminal:
+```sh
+   ruby scraper.rb
+```
