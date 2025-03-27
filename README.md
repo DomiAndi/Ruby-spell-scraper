@@ -20,7 +20,7 @@
    git clone https://github.com/tu-usuario/ruby-spell-scraper.git
    cd ruby-spell-scraper
    ```
-
+2. Instala las dependencias:
 ```sh
    bundle install
    ```
